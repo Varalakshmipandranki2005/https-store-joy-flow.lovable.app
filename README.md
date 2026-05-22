@@ -1,2 +1,2 @@
-# https-store-joy-flow.lovable.app
+# https-store-joy-flow
 A shopping website
